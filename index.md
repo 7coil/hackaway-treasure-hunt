@@ -14,7 +14,7 @@ Welcome to the Royal Hackaway Treasure Hunt!
 2. Find all 8 QR codes hidden around the building in areas that hackers can visit
     - All QR codes are accessible within walkable hacker areas
     - Avoid entering staff rooms, toilets, storage closets, etc.
-3. After finding a QR code, copy/paste the answer into a document _in the numbered order that you find them_
+3. After finding a QR code, copy/paste the answer into a text/spreadsheet document _in the numbered order that you find them_
 4. **At 10am tomorrow, we will be in the lecture theatre to reveal the answers.**
 
 ## Final Answer
